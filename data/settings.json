@@ -286,44 +286,56 @@
   ],
   "projectDefinitions": [
     {
+      "collaborators": [],
       "endYear": 2025,
       "fundingInstitution": "Korea Agency for Infrastructure Technology Advancement (KAIA)",
       "id": "ai-based-architectural-design-automation-technologies",
+      "institution": "Yonsei",
       "name": "Development of Artificial Intelligence-based Architectural Design Automation Technologies",
       "startYear": 2021
     },
     {
+      "collaborators": [],
       "endYear": 2026,
       "fundingInstitution": "National Research Foundation (NRF)",
       "id": "action-generation-model-for-bim-software",
+      "institution": "TUM GNI",
       "name": "Action Generation Model for BIM Software Leveraging Personalized Design Patterns",
       "startYear": 2026
     },
     {
+      "collaborators": [],
       "endYear": 2026,
       "fundingInstitution": "Korea Agency for Infrastructure Technology Advancement (KAIA)",
       "id": "digital-twin-semantic-interoperability-for-process-plants",
+      "institution": "Yonsei",
       "name": "Digital Twin-based Semantic Interoperability Technology for Process Plants",
       "startYear": 2024
     },
     {
+      "collaborators": [],
       "endYear": 2026,
       "fundingInstitution": "",
       "id": "gni-ai-for-the-built-world",
+      "institution": "TUM GNI",
       "name": "GNI AI for the Built World",
       "startYear": 2025
     },
     {
+      "collaborators": [],
       "endYear": 2026,
       "fundingInstitution": "National Research Foundation (NRF)",
       "id": "quickquote-ai",
+      "institution": "TUM GNI",
       "name": "QuickQuote AI: Technology for Early Cost and Schedule Estimation for Small-scale Building Projects Based on the Construction Genome",
       "startYear": 2025
     },
     {
+      "collaborators": [],
       "endYear": null,
       "fundingInstitution": "",
       "id": "new-project",
+      "institution": "Yonsei",
       "name": "Others",
       "startYear": null
     }
