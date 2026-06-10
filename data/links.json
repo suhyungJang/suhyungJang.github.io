@@ -1,0 +1,275 @@
+[
+  {
+    "id": "d18e3e4d-a9fe-427a-85a1-016f26e8cf38",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "logging-events",
+    "target_paper_id": "log-lexicon"
+  },
+  {
+    "id": "0595c0db-edb7-4479-84e8-dddfc8dfe17b",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "productivity-review",
+    "target_paper_id": "info-flow"
+  },
+  {
+    "id": "e9c0f98f-bf14-46be-b98b-0b9e9d662271",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "info-flow",
+    "target_paper_id": "tvd-log-mining"
+  },
+  {
+    "id": "9d81560b-789c-4f40-b3a0-cdae6bb02053",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "gaia",
+    "target_paper_id": "nadia-walls"
+  },
+  {
+    "id": "2e756c3a-d4e7-4ba4-a0a9-59ad4ce8c9aa",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "nadia-walls",
+    "target_paper_id": "nadia-s-framework"
+  },
+  {
+    "id": "b7c4cbd8-a66a-4c2d-9d1a-0815419cc50b",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "ess-recommendation",
+    "target_paper_id": "hades"
+  },
+  {
+    "id": "35075701-aa44-48e8-bad2-5c4c70530ca0",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "design-fee-blockchain",
+    "target_paper_id": "pavement-blockchain"
+  },
+  {
+    "id": "10cc34f3-9e4c-4f5d-a72f-7785f168a941",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "drawing-datasets",
+    "target_paper_id": "bim-from-drawings"
+  },
+  {
+    "id": "5445bddb-7992-4467-81a1-969e012ae98b",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "front-loading-cost",
+    "target_paper_id": "tvd-log-mining"
+  },
+  {
+    "id": "740dc1c6-8b68-4ecf-b45b-eee589f0e754",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "transplant-three"
+  },
+  {
+    "id": "d0e36295-d28e-4643-b70e-ffed38667f2b",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "transplant-three",
+    "target_paper_id": "future-of-bim"
+  },
+  {
+    "id": "c2debdb1-debd-406f-8785-bc1dd194af4e",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "nl-descriptor",
+    "target_paper_id": "space-mapping"
+  },
+  {
+    "id": "b636de37-b625-4212-90e6-7908425fd4bd",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "nl-descriptor"
+  },
+  {
+    "id": "a9a37796-7a45-4e54-8bcb-b0a82df89151",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "ess-recommendation"
+  },
+  {
+    "id": "825e93c9-0cbf-4a77-8934-d6b6b09b3754",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "eef36b33-374f-47cf-967b-48e7ee940289"
+  },
+  {
+    "id": "5662fb9b-906f-43e0-855d-8761e7a69d59",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "nl-descriptor",
+    "target_paper_id": "90b66f94-26fb-4e02-b6f7-1409ba0c0f58"
+  },
+  {
+    "id": "89025a65-d9cc-4309-a9e4-0ba7f8411635",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "space-mapping",
+    "target_paper_id": "f409fc93-f20c-4a56-abb5-efd2732454e6"
+  },
+  {
+    "id": "9c1fc872-4d82-43e0-9cc9-9ad7ca4ead2b",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "2d7ac4f7-34a9-4f98-8dee-9c3680cbe628",
+    "target_paper_id": "5512f9ff-2f37-4bc9-8c09-832c15831f75"
+  },
+  {
+    "id": "682bd864-0217-4ca9-ac73-a4e31416faf3",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "logging-events",
+    "target_paper_id": "enhanced-logging"
+  },
+  {
+    "id": "986c9aaf-d3da-4d59-a290-269480174b7e",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "semantic-elaboration",
+    "target_paper_id": "llm-embeddings"
+  },
+  {
+    "id": "774f05c6-9add-46df-be63-91b8ff5b59a1",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "semantic-elaboration",
+    "target_paper_id": "mgmt-code-gnn"
+  },
+  {
+    "id": "c9b00e5b-39fc-4477-84c2-ee468aa67ee7",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "semantic-elaboration"
+  },
+  {
+    "id": "ae0dd6b8-dc4a-4ba5-9b77-e9b9dfb2dbc9",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "gaia"
+  },
+  {
+    "id": "5c100e7c-bc1c-487c-b16e-eb102aa09b26",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "enhanced-logging",
+    "target_paper_id": "5d3a9a87-b780-484b-9e50-912ef2215bff"
+  },
+  {
+    "id": "b099949e-2f07-49be-9458-d0acc8465dc7",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "5d3a9a87-b780-484b-9e50-912ef2215bff",
+    "target_paper_id": "version-increments"
+  },
+  {
+    "id": "26d59b97-2ea8-4d8f-b773-972467da178d",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "02f59a6a-00df-455b-a2c4-9cd053291175"
+  },
+  {
+    "id": "aa15ee93-eb0e-4442-b7fe-4ad3cfb6fd6e",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "f409fc93-f20c-4a56-abb5-efd2732454e6"
+  },
+  {
+    "id": "3a5d8951-f439-4140-98d5-022b3c0c49f4",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "gaia",
+    "target_paper_id": "f409fc93-f20c-4a56-abb5-efd2732454e6"
+  },
+  {
+    "id": "d16e49cf-6818-493f-bfd9-5f7ebccd2c13",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "nadia-walls",
+    "target_paper_id": "nadia-s-tam"
+  },
+  {
+    "id": "eded4af1-3829-4ca3-9ae4-a6d4407444f1",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "llm-embeddings",
+    "target_paper_id": "genai-review"
+  },
+  {
+    "id": "6550d228-0f7e-4ca0-bb4a-46a98ba6c5ec",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "enhanced-logging",
+    "target_paper_id": "a7cdbe41-96ff-4ccf-b86e-3f8aa46b7a75"
+  },
+  {
+    "id": "e413cb99-f748-4ebb-a1aa-90e3188edc4f",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "a7cdbe41-96ff-4ccf-b86e-3f8aa46b7a75"
+  },
+  {
+    "id": "568b4f2e-fb68-436a-8bfe-cc2926960bfa",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "embodied-agent",
+    "target_paper_id": "adaptive-extraction"
+  },
+  {
+    "id": "1a5c047a-d1b6-4237-b70a-6deb25fbe2e9",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "2d7ac4f7-34a9-4f98-8dee-9c3680cbe628"
+  },
+  {
+    "id": "8cb6dcb7-efb3-4bbe-a559-cb4bce7ef962",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "enhanced-logging",
+    "target_paper_id": "design-fee-blockchain"
+  },
+  {
+    "id": "836c209b-670b-49c5-92ca-6fe430aeb3b0",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "semantic-elaboration",
+    "target_paper_id": "5512f9ff-2f37-4bc9-8c09-832c15831f75"
+  },
+  {
+    "id": "813ab061-ebb7-41d2-8f68-1d8fe82b694e",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "llm-embeddings",
+    "target_paper_id": "bim-from-drawings"
+  },
+  {
+    "id": "ddbe31c2-1fd6-4f97-af1e-5638d7484144",
+    "note": null,
+    "relation": "direct_extension",
+    "source_paper_id": "adaptive-extraction",
+    "target_paper_id": "02f59a6a-00df-455b-a2c4-9cd053291175"
+  },
+  {
+    "id": "900e80fd-264e-4788-b639-477aea9b791a",
+    "note": null,
+    "relation": "conceptual_extension",
+    "source_paper_id": "transplant-journal",
+    "target_paper_id": "hades"
+  }
+]

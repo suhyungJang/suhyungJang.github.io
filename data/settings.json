@@ -1,0 +1,355 @@
+{
+  "branchLabels": {
+    "building_information_representation": "Process Management"
+  },
+  "branches": [
+    {
+      "code": "BIR",
+      "id": "building_information_representation",
+      "label": "Process Management",
+      "order": 0
+    },
+    {
+      "code": "RLB",
+      "id": "ai_reasoning",
+      "label": "Reasoning Lab",
+      "order": 1
+    },
+    {
+      "code": "IDG",
+      "id": "interactive_design_generation",
+      "label": "Interactive Design Generation",
+      "order": 2
+    },
+    {
+      "code": "CDS",
+      "id": "construction_decision_support",
+      "label": "Construction Decision Support",
+      "order": 3
+    }
+  ],
+  "directGroupRepresentatives": {
+    "02f59a6a-00df-455b-a2c4-9cd053291175|eef36b33-374f-47cf-967b-48e7ee940289|embodied-agent|f409fc93-f20c-4a56-abb5-efd2732454e6|nl-descriptor|space-mapping": "embodied-agent",
+    "bim-from-drawings|drawing-datasets": "bim-from-drawings",
+    "design-fee-blockchain|info-flow": "design-fee-blockchain",
+    "design-fee-blockchain|info-flow|pavement-blockchain|productivity-review": "design-fee-blockchain",
+    "design-fee-blockchain|info-flow|productivity-review": "design-fee-blockchain",
+    "enhanced-logging|log-lexicon|logging-events": "enhanced-logging",
+    "front-loading-cost|info-flow|tvd-log-mining": "tvd-log-mining",
+    "front-loading-cost|tvd-log-mining": "tvd-log-mining",
+    "llm-embeddings|mgmt-code-gnn|semantic-elaboration": "semantic-elaboration",
+    "log-lexicon|logging-events": "logging-events"
+  },
+  "edgeRoutes": {
+    "19997108-5608-486c-967a-54ee2fa9925b": {
+      "bend": {
+        "x": 1074.5737337686603,
+        "y": 801.2735590778848
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "1a5c047a-d1b6-4237-b70a-6deb25fbe2e9": {
+      "bend": {
+        "x": 1260.4292960814028,
+        "y": 711.5071011432298
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "1a62f92a-8ed8-4ce2-a350-1de429b6f1c9": {
+      "bend": {
+        "x": 651.803986675701,
+        "y": 1016.0404402461195
+      },
+      "sourceSide": "left",
+      "targetSide": "left"
+    },
+    "22527fe7-1ded-44b6-8f85-db6c9ae02562": {
+      "bend": {
+        "x": 351.93228966495104,
+        "y": 820.1342372643342
+      },
+      "sourceSide": "top",
+      "targetSide": "bottom"
+    },
+    "3a5d8951-f439-4140-98d5-022b3c0c49f4": {
+      "bend": {
+        "x": 937.0110126845179,
+        "y": 677.5695381847443
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "4944bede-20bf-4aa7-81ff-5256a57614fb": {
+      "bend": {
+        "x": 1355.1310706043328,
+        "y": 536.9414592047088
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "53b20746-9a3c-401d-b2ac-27cc508e0e5b": {
+      "bend": {
+        "x": 326.21067709306635,
+        "y": 840.2798943417943
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "5662fb9b-906f-43e0-855d-8761e7a69d59": {
+      "bend": {
+        "x": 1254.090085983189,
+        "y": 1047.6705816271547
+      },
+      "sourceSide": "bottom",
+      "targetSide": "bottom"
+    },
+    "6550d228-0f7e-4ca0-bb4a-46a98ba6c5ec": {
+      "bend": {
+        "x": 614.6232472131786,
+        "y": 643.9903068445814
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "657a3f28-aae2-48ed-b1d7-3950a445d913": {
+      "bend": {
+        "x": 935.224343823839,
+        "y": 674.9321948297913
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "65defca8-425c-40db-b4f4-040a52daa276": {
+      "bend": {
+        "x": 887.4118843537227,
+        "y": 848.903386394701
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "764e11c6-7ed3-4006-8799-262429b8e6f1": {
+      "bend": {
+        "x": 902.9349606804991,
+        "y": 709.8060172929598
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "836c209b-670b-49c5-92ca-6fe430aeb3b0": {
+      "bend": {
+        "x": 958.0429325519926,
+        "y": 1003.2412269487139
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "8cb6dcb7-efb3-4bbe-a559-cb4bce7ef962": {
+      "bend": {
+        "x": 613.331136469874,
+        "y": 150.49577803434747
+      },
+      "sourceSide": "right",
+      "targetSide": "top"
+    },
+    "928346ab-616f-4a1e-998c-8b9cbe9ca42c": {
+      "bend": {
+        "x": 610.3803322776167,
+        "y": 789.8854179887638
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    },
+    "985be82e-692c-48b9-ac60-ae461c88a49c": {
+      "bend": {
+        "x": 1240.4369127789516,
+        "y": 679.9756058937709
+      },
+      "sourceSide": "bottom",
+      "targetSide": "bottom"
+    },
+    "a9a37796-7a45-4e54-8bcb-b0a82df89151": {
+      "bend": {
+        "x": 1864.05841660724,
+        "y": 469.2155176808321
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "ae0dd6b8-dc4a-4ba5-9b77-e9b9dfb2dbc9": {
+      "bend": {
+        "x": 974.860634699468,
+        "y": 606.8317295128041
+      },
+      "sourceSide": "left",
+      "targetSide": "right"
+    },
+    "b099949e-2f07-49be-9458-d0acc8465dc7": {
+      "bend": {
+        "x": 186.13225900613747,
+        "y": 421.6218935393897
+      },
+      "sourceSide": "bottom",
+      "targetSide": "top"
+    },
+    "c9b00e5b-39fc-4477-84c2-ee468aa67ee7": {
+      "bend": {
+        "x": 1375.808660136553,
+        "y": 698.5115582730091
+      },
+      "sourceSide": "left",
+      "targetSide": "right"
+    },
+    "e413cb99-f748-4ebb-a1aa-90e3188edc4f": {
+      "bend": {
+        "x": 1480.3137045943365,
+        "y": 740.7892874672425
+      },
+      "sourceSide": "bottom",
+      "targetSide": "bottom"
+    },
+    "e9c0f98f-bf14-46be-b98b-0b9e9d662271": {
+      "bend": {
+        "x": 1261.2002150133494,
+        "y": 533.4110440775547
+      },
+      "sourceSide": "right",
+      "targetSide": "left"
+    }
+  },
+  "groupNames": {
+    "02f59a6a-00df-455b-a2c4-9cd053291175|adaptive-extraction": "Semantic Information Retrieval",
+    "02f59a6a-00df-455b-a2c4-9cd053291175|adaptive-extraction|eef36b33-374f-47cf-967b-48e7ee940289|embodied-agent|f409fc93-f20c-4a56-abb5-efd2732454e6|nl-descriptor|space-mapping": "Multimodal Agent-augmented BIM",
+    "02f59a6a-00df-455b-a2c4-9cd053291175|eef36b33-374f-47cf-967b-48e7ee940289|embodied-agent|f409fc93-f20c-4a56-abb5-efd2732454e6|nl-descriptor|space-mapping": "Multimodal Agent-augmented BIM System",
+    "5d3a9a87-b780-484b-9e50-912ef2215bff|enhanced-logging|log-lexicon|logging-events": "Enhanced BIM Log Mining",
+    "bim-from-drawings|drawing-datasets": "Linking Design Drawing to BIM Model",
+    "eef36b33-374f-47cf-967b-48e7ee940289|embodied-agent|f409fc93-f20c-4a56-abb5-efd2732454e6|nl-descriptor|space-mapping": "Multimodal Agent-augmented BIM",
+    "ess-recommendation|future-of-bim|hades|transplant-journal|transplant-three": "AI-augmented BIM",
+    "future-of-bim|transplant-journal|transplant-three": "AI-augmented BIM",
+    "gaia|nadia-s-framework|nadia-s-tam|nadia-walls": "LLM-augmented BIM",
+    "genai-review|llm-embeddings|mgmt-code-gnn|semantic-elaboration": "Building Semantics",
+    "llm-embeddings|mgmt-code-gnn|semantic-elaboration": "Building Semantics"
+  },
+  "paperColumnAssignments": {
+    "02f59a6a-00df-455b-a2c4-9cd053291175": 1,
+    "2d7ac4f7-34a9-4f98-8dee-9c3680cbe628": 1,
+    "5512f9ff-2f37-4bc9-8c09-832c15831f75": 1,
+    "5d3a9a87-b780-484b-9e50-912ef2215bff": 0,
+    "90b66f94-26fb-4e02-b6f7-1409ba0c0f58": 1,
+    "a7cdbe41-96ff-4ccf-b86e-3f8aa46b7a75": 1,
+    "adaptive-extraction": 1,
+    "bim-from-drawings": 1,
+    "design-fee-blockchain": 0,
+    "drawing-datasets": 1,
+    "eef36b33-374f-47cf-967b-48e7ee940289": 0,
+    "embodied-agent": 0,
+    "enhanced-logging": 0,
+    "ess-recommendation": 1,
+    "f409fc93-f20c-4a56-abb5-efd2732454e6": 1,
+    "front-loading-cost": 0,
+    "future-of-bim": 1,
+    "gaia": 0,
+    "genai-review": 1,
+    "hades": 1,
+    "info-flow": 0,
+    "llm-embeddings": 1,
+    "log-lexicon": 0,
+    "logging-events": 0,
+    "mgmt-code-gnn": 1,
+    "nadia-s-framework": 0,
+    "nadia-s-tam": 0,
+    "nadia-walls": 0,
+    "nl-descriptor": 0,
+    "pavement-blockchain": 0,
+    "productivity-review": 0,
+    "semantic-elaboration": 1,
+    "space-mapping": 0,
+    "transplant-journal": 1,
+    "transplant-three": 1,
+    "tvd-log-mining": 0,
+    "version-increments": 0
+  },
+  "paperStackAfter": {},
+  "portfolioGroups": [
+    {
+      "id": "grp-1780303385427",
+      "name": "LLM-BIM Branch",
+      "paperIds": [
+        "logging-events",
+        "productivity-review",
+        "design-fee-blockchain",
+        "future-of-bim",
+        "enhanced-logging"
+      ]
+    }
+  ],
+  "projectDefinitions": [
+    {
+      "endYear": 2025,
+      "fundingInstitution": "Korea Agency for Infrastructure Technology Advancement (KAIA)",
+      "id": "ai-based-architectural-design-automation-technologies",
+      "name": "Development of Artificial Intelligence-based Architectural Design Automation Technologies",
+      "startYear": 2021
+    },
+    {
+      "endYear": 2026,
+      "fundingInstitution": "National Research Foundation (NRF)",
+      "id": "action-generation-model-for-bim-software",
+      "name": "Action Generation Model for BIM Software Leveraging Personalized Design Patterns",
+      "startYear": 2026
+    },
+    {
+      "endYear": 2026,
+      "fundingInstitution": "Korea Agency for Infrastructure Technology Advancement (KAIA)",
+      "id": "digital-twin-semantic-interoperability-for-process-plants",
+      "name": "Digital Twin-based Semantic Interoperability Technology for Process Plants",
+      "startYear": 2024
+    },
+    {
+      "endYear": 2026,
+      "fundingInstitution": "",
+      "id": "gni-ai-for-the-built-world",
+      "name": "GNI AI for the Built World",
+      "startYear": 2025
+    },
+    {
+      "endYear": 2026,
+      "fundingInstitution": "National Research Foundation (NRF)",
+      "id": "quickquote-ai",
+      "name": "QuickQuote AI: Technology for Early Cost and Schedule Estimation for Small-scale Building Projects Based on the Construction Genome",
+      "startYear": 2025
+    },
+    {
+      "endYear": null,
+      "fundingInstitution": "",
+      "id": "new-project",
+      "name": "Others",
+      "startYear": null
+    }
+  ],
+  "topicColumnOrders": {},
+  "topics": [
+    {
+      "code": "DECISION",
+      "color": "#d97a2b",
+      "id": "decision_support",
+      "label": "Decision-Making Support",
+      "order": 0
+    },
+    {
+      "code": "KNOWLEDGE",
+      "color": "#12a594",
+      "id": "reasoning",
+      "label": "Knowledge Management",
+      "order": 1
+    },
+    {
+      "code": "INTERACTION",
+      "color": "#8b58d9",
+      "id": "generation",
+      "label": "Human-Computer Interaction",
+      "order": 2
+    }
+  ]
+}
