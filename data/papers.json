@@ -821,7 +821,7 @@
     "full_title": "Interactive Building Layout Design Revision for Client Request Satisfaction",
     "has_pdf": false,
     "id": "eef36b33-374f-47cf-967b-48e7ee940289",
-    "institution": "Collaboration",
+    "institution": "TUM/GNI",
     "keywords": [],
     "month": 10,
     "notes": null,
@@ -837,7 +837,7 @@
       "Gaang"
     ],
     "topic": "generation",
-    "updated_at": "2026-06-01T11:18:22.745766",
+    "updated_at": "2026-06-10T21:30:21.027466",
     "url": null,
     "venue": "Master Thesis",
     "year": 2025
@@ -1134,7 +1134,7 @@
     "full_title": "BIM Log Mining for Interactive Target Value Design",
     "has_pdf": false,
     "id": "tvd-log-mining",
-    "institution": "Collaboration",
+    "institution": "TUM/GNI",
     "keywords": [],
     "month": 4,
     "notes": null,
@@ -1147,7 +1147,7 @@
     "status": "submitted",
     "supervisors": [],
     "topic": "decision_support",
-    "updated_at": "2026-06-10T21:16:47.568238",
+    "updated_at": "2026-06-10T21:29:57.576421",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6294268",
     "venue": "Automation in Construction",
     "year": 2026
