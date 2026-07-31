@@ -28,6 +28,68 @@
       "order": 3
     }
   ],
+  "career": {
+    "entries": [
+      {
+        "color": "#003580",
+        "endMonth": 9,
+        "endYear": 2025,
+        "firstRole": {
+          "endMonth": 2,
+          "endYear": 2025,
+          "position": "Ph.D. Researcher",
+          "startMonth": 3,
+          "startYear": 2021
+        },
+        "group": "Building Informatics Group",
+        "icon": "/org/yonsei.png",
+        "id": "yonsei",
+        "institution": "Yonsei University",
+        "leader": "Prof. Ghang Lee",
+        "startMonth": 3,
+        "startYear": 2021
+      },
+      {
+        "color": "#2a5298",
+        "endMonth": null,
+        "endYear": null,
+        "firstRole": {
+          "endMonth": 7,
+          "endYear": 2026,
+          "position": "Postdoctoral Researcher",
+          "startMonth": 9,
+          "startYear": 2025
+        },
+        "group": "Georg Nemetschek Institute",
+        "icon": "/org/tum.png",
+        "id": "tum",
+        "institution": "Technical University of Munich",
+        "leader": "Prof. André Borrmann",
+        "startMonth": 9,
+        "startYear": 2025
+      }
+    ],
+    "roleMarkers": [
+      {
+        "endMonth": 8,
+        "endYear": 2025,
+        "entryId": "yonsei",
+        "id": "yonsei-postdoc",
+        "position": "Postdoctoral Researcher",
+        "startMonth": 3,
+        "startYear": 2025
+      },
+      {
+        "endMonth": null,
+        "endYear": null,
+        "entryId": "tum",
+        "id": "tum-group-leader",
+        "position": "Group Leader (Spatial and Physical AI)",
+        "startMonth": 8,
+        "startYear": 2026
+      }
+    ]
+  },
   "directGroupRepresentatives": {
     "02f59a6a-00df-455b-a2c4-9cd053291175|eef36b33-374f-47cf-967b-48e7ee940289|embodied-agent|f409fc93-f20c-4a56-abb5-efd2732454e6|nl-descriptor|space-mapping": "embodied-agent",
     "bim-from-drawings|drawing-datasets": "bim-from-drawings",
@@ -233,25 +295,25 @@
   },
   "paperColumnAssignments": {
     "02f59a6a-00df-455b-a2c4-9cd053291175": 1,
-    "2d7ac4f7-34a9-4f98-8dee-9c3680cbe628": 1,
+    "2d7ac4f7-34a9-4f98-8dee-9c3680cbe628": 0,
     "5512f9ff-2f37-4bc9-8c09-832c15831f75": 1,
     "5d3a9a87-b780-484b-9e50-912ef2215bff": 0,
     "90b66f94-26fb-4e02-b6f7-1409ba0c0f58": 0,
     "a7cdbe41-96ff-4ccf-b86e-3f8aa46b7a75": 1,
     "adaptive-extraction": 1,
-    "bim-from-drawings": 0,
+    "bim-from-drawings": 1,
     "design-fee-blockchain": 0,
-    "drawing-datasets": 0,
+    "drawing-datasets": 1,
     "eef36b33-374f-47cf-967b-48e7ee940289": 0,
     "embodied-agent": 0,
     "enhanced-logging": 0,
-    "ess-recommendation": 0,
+    "ess-recommendation": 1,
     "f409fc93-f20c-4a56-abb5-efd2732454e6": 1,
     "front-loading-cost": 0,
     "future-of-bim": 0,
     "gaia": 0,
     "genai-review": 1,
-    "hades": 0,
+    "hades": 1,
     "info-flow": 0,
     "llm-embeddings": 1,
     "log-lexicon": 0,
@@ -343,21 +405,21 @@
   "topicColumnOrders": {},
   "topics": [
     {
-      "code": "KNOWLEDGE",
-      "color": "#d97a2b",
-      "id": "decision_support",
-      "label": "Knowledge Management",
-      "order": 0
-    },
-    {
-      "code": "REPRESENTATION",
+      "code": "PERCEPTION",
       "color": "#12a594",
       "id": "reasoning",
       "label": "Digital Representation",
+      "order": 0
+    },
+    {
+      "code": "DECISION",
+      "color": "#d97a2b",
+      "id": "decision_support",
+      "label": "Knowledge Management",
       "order": 1
     },
     {
-      "code": "INTERACTION",
+      "code": "ACTION",
       "color": "#8b58d9",
       "id": "generation",
       "label": "Human-Computer Interaction",
